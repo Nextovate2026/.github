@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./banner.png" alt="Nextovate Banner" />
-</p>
+<img width="1983" height="793" alt="banner" src="https://github.com/user-attachments/assets/472c9835-2902-42be-ae1b-6da4624593b6" />
 
 <h1 align="center">Nextovate Digital Solutions</h1>
 
