@@ -61,30 +61,6 @@ Our platform is built around independent, scalable modules.
 
 ---
 
-## 🏗️ Architecture Principles
-
-We follow enterprise-grade engineering standards:
-
-- 🧠 **Multi-Tenant SaaS Architecture**  
-- 🧩 **Modular System Design**  
-- 🏛️ **Clean Architecture (Controller → Service → Repository)**  
-- 🔗 **API-First Development**  
-- ⚙️ **Microservices-Ready Structure**  
-
----
-
-## 🔐 Security & Reliability
-
-Security is embedded across every layer:
-
-- 🔑 **JWT Authentication + Secure Cookies**  
-- 🛡️ **Role-Based Access Control (RBAC)**  
-- 🚦 **API Rate Limiting & Protection**  
-- ✅ **Data Validation & Sanitization**  
-- 🧯 **Protection against XSS, CSRF, and Injection**  
-
----
-
 ## 🚀 Vision
 
 <p align="center">
