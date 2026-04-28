@@ -67,11 +67,6 @@ To build a unified SaaS ecosystem where businesses manage everything from a sing
 
 ---
 
-## 🤝 Collaboration
-
-We welcome developers, contributors, and partners to collaborate and build the future with us.
-
----
 
 ## 📫 Contact
 
