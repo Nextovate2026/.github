@@ -63,9 +63,7 @@ Our platform is built around independent, scalable modules.
 
 ## 🚀 Vision
 
-<p align="center">
-  <b>To build a unified SaaS ecosystem where businesses manage everything from a single cloud platform.</b>
-</p>
+To build a unified SaaS ecosystem where businesses manage everything from a single cloud platform.
 
 ---
 
