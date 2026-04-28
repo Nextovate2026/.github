@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/nextovate/.github/main/profile/banner.png" />
+  <img src="./banner.png" alt="Nextovate Banner" />
 </p>
 
 <h1 align="center">Nextovate Digital Solutions</h1>
@@ -22,7 +22,7 @@
 
 **Nextovate** is a forward-thinking software company building **scalable, secure, and cloud-native SaaS platforms** for modern businesses.
 
-We design and deliver **modular, enterprise-grade applications** that enable organizations to streamline operations, improve efficiency, and scale with confidence.
+We create **modular, enterprise-grade applications** that empower organizations to streamline operations, improve efficiency, and scale with confidence.
 
 ---
 
@@ -30,7 +30,7 @@ We design and deliver **modular, enterprise-grade applications** that enable org
 
 ### Nextovate Cloud
 
-A unified SaaS platform that provides businesses with powerful tools through a single ecosystem.
+A unified SaaS platform that delivers powerful business tools through a single ecosystem.
 
 - 🏢 Multi-tenant architecture  
 - 💳 Module-based subscriptions  
@@ -45,24 +45,24 @@ A unified SaaS platform that provides businesses with powerful tools through a s
 Our platform is built around independent, scalable modules.
 
 ### 💼 Core Business Modules
-- 📄 Invoice Management *(Ongoing)*  
-- 🛒 Point of Sale (POS) *(Coming Soon)*  
-- 📦 Inventory Management *(Coming Soon)*  
-- 👥 Customer Relationship Management *(Planned)*  
-- 🏨 Booking & Reservation Systems *(Planned)*  
+- 📄 **Invoice Management** *(Ongoing)*  
+- 🛒 **Point of Sale (POS)** *(Coming Soon)*  
+- 📦 **Inventory Management** *(Coming Soon)*  
+- 👥 **Customer Relationship Management (CRM)** *(Planned)*  
+- 🏨 **Booking & Reservation Systems** *(Planned)*  
 
 ### 🏢 Industry Solutions
-- 🎓 School Management System *(Planned)*  
-- 📚 Library Management System *(Planned)*  
-- 💰 Payroll & HR Management *(Planned)*  
+- 🎓 **School Management System** *(Planned)*  
+- 📚 **Library Management System** *(Planned)*  
+- 💰 **Payroll & HR Management** *(Planned)*  
 
-> Each module can be used independently or combined into a unified ecosystem within **Nextovate Cloud**.
+> Each module can operate independently or integrate seamlessly within **Nextovate Cloud**.
 
 ---
 
 ## 🏗️ Architecture Principles
 
-We follow enterprise-grade engineering practices:
+We follow enterprise-grade engineering standards:
 
 - 🧠 Multi-Tenant SaaS Architecture  
 - 🧩 Modular System Design  
@@ -74,13 +74,13 @@ We follow enterprise-grade engineering practices:
 
 ## 🔐 Security & Reliability
 
-Security is embedded at every layer:
+Security is embedded across every layer of the platform:
 
 - 🔑 JWT Authentication + Secure Cookies  
 - 🛡️ Role-Based Access Control (RBAC)  
 - 🚦 API Rate Limiting & Protection  
 - ✅ Data Validation & Sanitization  
-- 🧯 Protection against XSS, CSRF & Injection  
+- 🧯 Protection against XSS, CSRF, and Injection  
 
 ---
 
@@ -92,7 +92,7 @@ To build a unified SaaS ecosystem where businesses can manage operations through
 
 ## 🤝 Collaboration
 
-We welcome developers, contributors, and partners to build the future with us.
+We welcome developers, contributors, and partners to collaborate and build the future with us.
 
 ---
 
